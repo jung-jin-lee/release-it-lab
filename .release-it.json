@@ -1,4 +1,7 @@
 {
+  "git": {
+    "requireUpstream": false
+  },
   "github": {
     "release": false
   },
