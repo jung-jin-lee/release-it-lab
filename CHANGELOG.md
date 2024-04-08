@@ -1,5 +1,12 @@
 
 
+## [0.1.1](https://github.com/jung-jin-lee/release-it-lab/compare/0.1.0...0.1.1) (2024-04-08)
+
+
+### Bug Fixes
+
+* 5 ([d28cf94](https://github.com/jung-jin-lee/release-it-lab/commit/d28cf94884302546125a75c0879ed95d44b3e4ac))
+
 ## 0.1.0 (2024-04-08)
 
 
